@@ -8,7 +8,7 @@ body {
     height: 100vh;
     /* to bring everything to the center vertically we use justify content */
     justify-content: center;
-    background: url("/pexels-ian-turnell-709552.jpg");
+    background: url("./pexels-ian-turnell-709552.jpg");
     background-size:cover;
     
 
